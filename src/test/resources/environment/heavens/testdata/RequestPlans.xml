@@ -1,0 +1,8 @@
+<requestPlans>
+    <NewPlan>
+        <PlanEnd>01/01/2018</PlanEnd>
+    </NewPlan>
+    <RequestApprovalPlan>
+        <MarketingChallenge>Something test</MarketingChallenge>
+    </RequestApprovalPlan>
+</requestPlans>
