@@ -86,3 +86,5 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
+# Genie functionality
+!src/test/java/framework/genie/**
